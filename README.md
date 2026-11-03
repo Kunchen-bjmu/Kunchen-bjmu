@@ -54,8 +54,8 @@ Python · Matplotlib
 
 
 📫 联系我 / Connect
-- 📧 邮箱：YOUR_EMAIL
-- 🆔 ORCID：暂未开通（开通后可在个人主页 About 区展示）
+- 📧 邮箱：17208270180@163.com
+- 🆔 ORCID：0009-0006-9860-4858
 <p align="center">
   「把临床问题变成可验证的证据，把证据写成别人能复现的代码。」
 </p>
