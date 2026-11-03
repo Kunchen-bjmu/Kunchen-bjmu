@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="98" height="26" viewBox="0 0 98 26" role="img" aria-label="语言: Python">
+  <title>语言: Python</title>
+  <rect width="98" height="26" rx="4" fill="#074C83"/>
+  <rect x="39" width="59" height="26" rx="4" fill="#39729B"/>
+  <rect x="39" width="6" height="26" fill="#39729B"/>
+  <g fill="#FFFFFF" font-family="Helvetica Neue, Arial, PingFang SC, sans-serif" font-size="11.5" font-weight="600">
+    <text x="19.5" y="17.4" text-anchor="middle">语言</text>
+    <text x="68.4" y="17.4" text-anchor="middle">Python</text>
+  </g>
+</svg>
