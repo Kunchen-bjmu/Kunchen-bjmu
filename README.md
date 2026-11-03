@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Profile banner" width="100%">
+  <img src="./banner.svg" alt="Profile banner" width="100%">
 </p>
 <h2 align="center">你好，我是 Kunchen 👋</h2>
 <p align="center">
@@ -37,27 +37,25 @@
 </p>
 
 
-📌 精选项目 / Featured Projects
-项目
+📌 在做的方向 / Work in Progress
+方向
 一句话说明
 技术
-clinical-model-notes
-临床预测模型的方法笔记：区分度、校准、决策曲线与外部验证
+临床预测模型笔记
+区分度、校准、决策曲线与外部验证的方法梳理
 R · Python
-lit-review-workflow
-文献精读与汇报模板：结构化拆解 + 可复现图表 + 幻灯片产出
+文献精读工作流
+结构化拆解 → 图表复现 → 汇报幻灯片的可复用模板
 Markdown · Python
-data-viz-clinic
-医学数据可视化案例集：森林图、KM 曲线、校准图的规范画法
+医学数据可视化
+森林图、KM 曲线、校准图的规范画法案例集
 Python · Matplotlib
-仓库还在整理中，陆续公开。项目内容会随学习进度更新。
+以上方向正在整理，公开仓库后会在此处补上链接。
 
 
 📫 联系我 / Connect
-<p>
-  <img alt="Email" src="./assets/badges/email.svg">
-  <img alt="ORCID" src="./assets/badges/orcid.svg">
-</p>
+- 📧 邮箱：YOUR_EMAIL
+- 🆔 ORCID：暂未开通（开通后可在个人主页 About 区展示）
 <p align="center">
   「把临床问题变成可验证的证据，把证据写成别人能复现的代码。」
 </p>
