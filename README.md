@@ -1,17 +1,17 @@
 <p align="center">
   <img src="./assets/banner.svg" alt="Profile banner" width="100%">
 </p>
-<h2 align="center">你好，我是 陈坤 👋</h2>
+<h2 align="center">你好，我是 Kunchen 👋</h2>
 <p align="center">
 |  |  |
 | --- | --- |
   <i>临床医学 · 医学科研 · 数据分析　|　Turning clinical questions into evidence.</i>
 </p>
 <p align="center">
-  <img alt="focus" src="https://img.shields.io/badge/FOCUS-Clinical%20Prediction%20Model-074C83?style=flat-square">
-  <img alt="field" src="https://img.shields.io/badge/FIELD-Epidemiology%20%7C%20Evidence--based%20Medicine-39729B?style=flat-square">
-  <img alt="lang" src="https://img.shields.io/badge/CODE-Python%20%7C%20R-2A6B96?style=flat-square">
-  <img alt="status" src="https://img.shields.io/badge/STATUS-Open%20to%20collaboration-5B93B8?style=flat-square">
+  <img alt="focus" src="./assets/badges/focus.svg">
+  <img alt="field" src="./assets/badges/field.svg">
+  <img alt="code" src="./assets/badges/code.svg">
+  <img alt="status" src="./assets/badges/status.svg">
 </p>
 🧭 关于我 / About Me
 - 🩺 医学背景，关注 临床预测模型、流行病学方法、循证医学；把「读文献」当作可复现的技术活。
@@ -23,17 +23,17 @@
 
 🛠 技术栈 / Toolbox
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
-  <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
-  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white">
-  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white">
-  <img alt="Zotero" src="https://img.shields.io/badge/Zotero-CC2936?style=flat-square&logo=zotero&logoColor=white">
+  <img alt="Python" src="./assets/badges/python.svg">
+  <img alt="R" src="./assets/badges/r.svg">
+  <img alt="SQL" src="./assets/badges/sql.svg">
+  <img alt="Jupyter" src="./assets/badges/jupyter.svg">
+  <img alt="pandas" src="./assets/badges/pandas.svg">
+  <img alt="scikit-learn" src="./assets/badges/sklearn.svg">
+  <img alt="Matplotlib" src="./assets/badges/matplotlib.svg">
+  <img alt="Git" src="./assets/badges/git.svg">
+  <img alt="Markdown" src="./assets/badges/markdown.svg">
+  <img alt="LaTeX" src="./assets/badges/latex.svg">
+  <img alt="Zotero" src="./assets/badges/zotero.svg">
 </p>
 
 
@@ -53,26 +53,10 @@ Python · Matplotlib
 仓库还在整理中，陆续公开。项目内容会随学习进度更新。
 
 
-📈 GitHub 数据 / GitHub Stats
-<p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=074C83&icon_color=39729B&text_color=33475B">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=074C83&text_color=33475B">
-</p>
-<p align="center">
-  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=FFFFFF&stroke=AFC7D9&ring=074C83&fire=39729B&currStreakLabel=074C83&sideLabels=33475B&dates=8AA5BC">
-</p>
-
-
-🕒 最近动态 / Contribution Graph
-<p align="center">
-  <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=FFFFFF&color=074C83&line=39729B&point=074C83&area=true&hide_border=true">
-</p>
-
-
 📫 联系我 / Connect
 <p>
-  <a href="mailto:17208270180@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-17208270180@163.com-074C83?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://orcid.org/0009-0006-9860-4858"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0009-0006-9860-4858-A6CE39?style=flat-square&logo=orcid&logoColor=white"></a>
+  <img alt="Email" src="./assets/badges/email.svg">
+  <img alt="ORCID" src="./assets/badges/orcid.svg">
 </p>
 <p align="center">
   「把临床问题变成可验证的证据，把证据写成别人能复现的代码。」
