@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="710.663077pt" height="422.503964pt" viewBox="0 0 710.663077 422.503964" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-09T09:45:54.840315</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.8.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 422.503964 
+L 710.663077 422.503964 
+L 710.663077 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 96.7 382.852245 
+L 695.213077 382.852245 
+L 695.213077 22.982438 
+L 96.7 22.982438 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 96.7 39.340156 
+L 279.286093 39.340156 
+L 279.286093 53.007179 
+L 96.7 53.007179 
+z
+" clip-path="url(#pdc65479b61)" style="fill: #33779b"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 96.7 82.049604 
+L 279.286093 82.049604 
+L 279.286093 95.716627 
+L 96.7 95.716627 
+z
+" clip-path="url(#pdc65479b61)" style="fill: #33779b"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 96.7 124.759052 
+L 446.787013 124.759052 
+L 446.787013 138.426075 
+L 96.7 138.426075 
+z
+" clip-path="url(#pdc65479b61)" style="fill: #33779b"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 96.7 167.4685 
+L 321.009967 167.4685 
+L 321.009967 181.135523 
+L 96.7 181.135523 
+z
+" clip-path="url(#pdc65479b61)" style="fill: #33779b"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 96.7 210.177947 
+L 177.927856 210.177947 
+L 177.927856 223.844971 
+L 96.7 223.844971 
+z
+" clip-path="url(#pdc65479b61)" style="fill: #33779b"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 96.7 252.887395 
+L 247.703089 252.887395 
+L 247.703089 266.554419 
+L 96.7 266.554419 
+z
+" clip-path="url(#pdc65479b61)" style="fill: #33779b"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 96.7 295.596843 
+L 247.400376 295.596843 
+L 247.400376 309.263867 
+L 96.7 309.263867 
+z
+" clip-path="url(#pdc65479b61)" style="fill: #33779b"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 96.7 338.306291 
+L 318.689171 338.306291 
+L 318.689171 351.973314 
+L 96.7 351.973314 
+z
+" clip-path="url(#pdc65479b61)" style="fill: #33779b"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 96.7 53.861368 
+L 468.109301 53.861368 
+L 468.109301 67.528392 
+L 96.7 67.528392 
+z
+" clip-path="url(#pdc65479b61)" style="fill: #ba654d"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 96.7 96.570816 
+L 468.109301 96.570816 
+L 468.109301 110.237839 
+L 96.7 110.237839 
+z
+" clip-path="url(#pdc65479b61)" style="fill: #ba654d"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 96.7 139.280264 
+L 534.347902 139.280264 
+L 534.347902 152.947287 
+L 96.7 152.947287 
+z
+" clip-path="url(#pdc65479b61)" style="fill: #ba654d"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 96.7 181.989712 
+L 528.039464 181.989712 
+L 528.039464 195.656735 
+L 96.7 195.656735 
+z
+" clip-path="url(#pdc65479b61)" style="fill: #ba654d"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 96.7 224.69916 
+L 242.582634 224.69916 
+L 242.582634 238.366183 
+L 96.7 238.366183 
+z
+" clip-path="url(#pdc65479b61)" style="fill: #ba654d"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 96.7 267.408608 
+L 300.147133 267.408608 
+L 300.147133 281.075631 
+L 96.7 281.075631 
+z
+" clip-path="url(#pdc65479b61)" style="fill: #ba654d"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 96.7 310.118055 
+L 300.935688 310.118055 
+L 300.935688 323.785079 
+L 96.7 323.785079 
+z
+" clip-path="url(#pdc65479b61)" style="fill: #ba654d"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 96.7 352.827503 
+L 252.045291 352.827503 
+L 252.045291 366.494527 
+L 96.7 366.494527 
+z
+" clip-path="url(#pdc65479b61)" style="fill: #ba654d"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="mbe333de11e" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mbe333de11e" x="96.7" y="382.852245" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font: 11px 'Times New Roman', 'Songti SC', 'SimSun', 'DejaVu Sans'; text-anchor: middle" x="96.7" y="397.49037" transform="rotate(-0 96.7 397.49037)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#mbe333de11e" x="216.402615" y="382.852245" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font: 11px 'Times New Roman', 'Songti SC', 'SimSun', 'DejaVu Sans'; text-anchor: middle" x="216.402615" y="397.49037" transform="rotate(-0 216.402615 397.49037)">20</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#mbe333de11e" x="336.105231" y="382.852245" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font: 11px 'Times New Roman', 'Songti SC', 'SimSun', 'DejaVu Sans'; text-anchor: middle" x="336.105231" y="397.49037" transform="rotate(-0 336.105231 397.49037)">40</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#mbe333de11e" x="455.807846" y="382.852245" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font: 11px 'Times New Roman', 'Songti SC', 'SimSun', 'DejaVu Sans'; text-anchor: middle" x="455.807846" y="397.49037" transform="rotate(-0 455.807846 397.49037)">60</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#mbe333de11e" x="575.510462" y="382.852245" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font: 11px 'Times New Roman', 'Songti SC', 'SimSun', 'DejaVu Sans'; text-anchor: middle" x="575.510462" y="397.49037" transform="rotate(-0 575.510462 397.49037)">80</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#mbe333de11e" x="695.213077" y="382.852245" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font: 11px 'Times New Roman', 'Songti SC', 'SimSun', 'DejaVu Sans'; text-anchor: middle" x="695.213077" y="397.49037" transform="rotate(-0 695.213077 397.49037)">100</text>
+     </g>
+    </g>
+    <g id="text_7">
+     <text style="font: 11px 'Times New Roman', 'Songti SC', 'SimSun', 'DejaVu Sans'; text-anchor: middle" x="395.956538" y="412.950995" transform="rotate(-0 395.956538 412.950995)">缺失比例 (%)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_7">
+      <defs>
+       <path id="m09eaa709e1" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m09eaa709e1" x="96.7" y="53.434274" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font: 11px 'Times New Roman', 'Songti SC', 'SimSun', 'DejaVu Sans'" transform="translate(29.2 52.508727)">体温最低值*</text>
+      <text style="font: 11px 'Times New Roman', 'Songti SC', 'SimSun', 'DejaVu Sans'" transform="translate(17.603594 64.027446)">chart_1001_min</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m09eaa709e1" x="96.7" y="96.143722" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font: 11px 'Times New Roman', 'Songti SC', 'SimSun', 'DejaVu Sans'" transform="translate(29.2 95.218175)">体温最高值*</text>
+      <text style="font: 11px 'Times New Roman', 'Songti SC', 'SimSun', 'DejaVu Sans'" transform="translate(15.776562 106.736894)">chart_1001_max</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m09eaa709e1" x="96.7" y="138.85317" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font: 11px 'Times New Roman', 'Songti SC', 'SimSun', 'DejaVu Sans'" transform="translate(29.2 137.966295)">心率最高值*</text>
+      <text style="font: 11px 'Times New Roman', 'Songti SC', 'SimSun', 'DejaVu Sans'" transform="translate(15.776562 149.485013)">chart_1003_max</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m09eaa709e1" x="96.7" y="181.562617" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font: 11px 'Times New Roman', 'Songti SC', 'SimSun', 'DejaVu Sans'" transform="translate(18.2 180.599258)">收缩压最低值*</text>
+      <text style="font: 11px 'Times New Roman', 'Songti SC', 'SimSun', 'DejaVu Sans'" transform="translate(17.603594 192.117977)">chart_1016_min</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m09eaa709e1" x="96.7" y="224.272065" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font: 11px 'Times New Roman', 'Songti SC', 'SimSun', 'DejaVu Sans'" transform="translate(18.2 223.308706)">血小板最低值*</text>
+      <text style="font: 11px 'Times New Roman', 'Songti SC', 'SimSun', 'DejaVu Sans'" transform="translate(26.149219 234.827425)">lab_5129_min</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m09eaa709e1" x="96.7" y="266.981513" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font: 11px 'Times New Roman', 'Songti SC', 'SimSun', 'DejaVu Sans'" transform="translate(7.2 266.07831)">尿素相关最高值*</text>
+      <text style="font: 11px 'Times New Roman', 'Songti SC', 'SimSun', 'DejaVu Sans'" transform="translate(24.322187 277.597029)">lab_5033_max</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m09eaa709e1" x="96.7" y="309.690961" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font: 11px 'Times New Roman', 'Songti SC', 'SimSun', 'DejaVu Sans'" transform="translate(29.2 308.737914)">肌酐最高值*</text>
+      <text style="font: 11px 'Times New Roman', 'Songti SC', 'SimSun', 'DejaVu Sans'" transform="translate(24.322187 320.256633)">lab_5041_max</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m09eaa709e1" x="96.7" y="352.400409" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font: 11px 'Times New Roman', 'Songti SC', 'SimSun', 'DejaVu Sans'" transform="translate(29.2 351.447362)">血糖最高值*</text>
+      <text style="font: 11px 'Times New Roman', 'Songti SC', 'SimSun', 'DejaVu Sans'" transform="translate(24.322187 362.966081)">lab_5223_max</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_19">
+    <path d="M 96.7 382.852245 
+L 96.7 22.982438 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 96.7 382.852245 
+L 695.213077 382.852245 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_16">
+    <text style="font: 13.2px 'Times New Roman', 'Songti SC', 'SimSun', 'DejaVu Sans'; text-anchor: middle" x="395.956538" y="16.982438" transform="rotate(-0 395.956538 16.982438)">主队列中的缺失模式（*名称未获官方字典核验）</text>
+   </g>
+   <g id="legend_1">
+    <g id="patch_21">
+     <path d="M 630.313077 63.240719 
+L 687.513077 63.240719 
+Q 689.713077 63.240719 689.713077 61.040719 
+L 689.713077 30.682437 
+Q 689.713077 28.482438 687.513077 28.482438 
+L 630.313077 28.482438 
+Q 628.113077 28.482438 628.113077 30.682437 
+L 628.113077 61.040719 
+Q 628.113077 63.240719 630.313077 63.240719 
+z
+" style="fill: #ffffff; opacity: 0.8; stroke: #cccccc; stroke-linejoin: miter"/>
+    </g>
+    <g id="patch_22">
+     <path d="M 632.513077 40.934781 
+L 654.513077 40.934781 
+L 654.513077 33.234781 
+L 632.513077 33.234781 
+z
+" style="fill: #33779b"/>
+    </g>
+    <g id="text_17">
+     <text style="font: 11px 'Times New Roman', 'Songti SC', 'SimSun', 'DejaVu Sans'; text-anchor: start" x="663.313077" y="40.934781" transform="rotate(-0 663.313077 40.934781)">存活</text>
+    </g>
+    <g id="patch_23">
+     <path d="M 632.513077 56.48775 
+L 654.513077 56.48775 
+L 654.513077 48.78775 
+L 632.513077 48.78775 
+z
+" style="fill: #ba654d"/>
+    </g>
+    <g id="text_18">
+     <text style="font: 11px 'Times New Roman', 'Songti SC', 'SimSun', 'DejaVu Sans'; text-anchor: start" x="663.313077" y="56.48775" transform="rotate(-0 663.313077 56.48775)">死亡</text>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pdc65479b61">
+   <rect x="96.7" y="22.982438" width="598.513077" height="359.869808"/>
+  </clipPath>
+ </defs>
+</svg>

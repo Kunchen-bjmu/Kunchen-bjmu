@@ -1,0 +1,43 @@
+{
+  "seed": 20261109,
+  "source_sha256": "c0c27036909fcd017894fee3150cb99a5b0d6de20c82f51d4e95ef4e15379469",
+  "cohort_n": 12622,
+  "events": 759,
+  "development_n": 10097,
+  "development_events": 607,
+  "test_n": 2525,
+  "test_events": 152,
+  "chosen_params": {
+    "M0": {
+      "model__C": 1.0
+    },
+    "M1": {
+      "model__C": 1.0
+    },
+    "M2": {
+      "model__C": 10.0
+    },
+    "M3": {
+      "model__C": 0.1
+    },
+    "M4": {
+      "model__learning_rate": 0.1,
+      "model__max_depth": 2
+    }
+  },
+  "null_Brier": 0.056574224799775905,
+  "development_event_rate": 0.060116866395959194,
+  "test_event_rate": 0.060198019801980196,
+  "runtime_seconds": 42.51257920265198,
+  "primary_uses_raw_numeric_values": true,
+  "unit_verification": false,
+  "test_bootstrap_n": 2000,
+  "coefficient_bootstrap_n": 1000,
+  "software": {
+    "python": "3.11.7",
+    "numpy": "1.26.4",
+    "pandas": "2.1.4",
+    "sklearn": "1.2.2",
+    "statsmodels": "0.14.0"
+  }
+}
