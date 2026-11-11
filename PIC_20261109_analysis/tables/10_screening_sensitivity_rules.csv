@@ -1,9 +1,0 @@
-﻿field,marked_n,rule
-chart_1001_min,2,"lower=25, upper=45; conditional on inferred units"
-chart_1001_max,6,"lower=25, upper=45; conditional on inferred units"
-chart_1003_max,2,"lower=20, upper=350; conditional on inferred units"
-chart_1016_min,8,"lower=10, upper=300; conditional on inferred units"
-lab_5129_min,19,"lower=0, upper=2000; conditional on inferred units"
-lab_5033_max,0,"lower=0, upper=None; conditional on inferred units"
-lab_5041_max,0,"lower=0, upper=None; conditional on inferred units"
-lab_5223_max,0,"lower=0, upper=None; conditional on inferred units"
