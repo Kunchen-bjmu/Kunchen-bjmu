@@ -3,8 +3,6 @@
 </p>
 <h2 align="center">你好，我是 Kunchen 👋</h2>
 <p align="center">
-|  |  |
-| --- | --- |
   <p align="center">
   <strong>心血管流行病学 · 健康数据科学</strong><br>
   Cardiovascular Epidemiology · Health Data Science
